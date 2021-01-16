@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/Vijay1126',
+      url: 'https://www.linkedin.com/in/Vijay1126',
     },
     // {
     //   name: 'Codepen',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://www.instagram.com/___v_j_r_j___/',
     },
   ],
 
