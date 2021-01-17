@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Vijay Raja',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      "Vijay Raja's Portfolio Website",
     siteUrl: 'https://vijayraja.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'VijayRaja',
+        short_name: 'VR',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
