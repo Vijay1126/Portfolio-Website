@@ -15,13 +15,10 @@
 </p>
 
 
-##Inspired from and Huge thanks to [Brittany Chiang](https://github.com/bchiang7)
+<h2> Inspired from and Huge thanks to [Brittany Chiang](https://github.com/bchiang7) </h2>
    
   </a>
 
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🛠 Installation & Set Up
 
