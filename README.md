@@ -15,7 +15,7 @@
 </p>
 
 
-<h2> Inspired from and Huge thanks to [Brittany Chiang](https://github.com/bchiang7) </h2>
+<h2> Inspired from and Huge thanks to Brittany Chiang (https://github.com/bchiang7) </h2>
    
   </a>
 
