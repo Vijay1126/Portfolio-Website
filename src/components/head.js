@@ -45,11 +45,11 @@ const Head = ({ title, description, image }) => {
       <html lang="en" />
 
       <meta name="description" content={seo.description} />
-      <meta name="image" content={"final/src/images/logo.png"} />
+      <meta name="image" content={"https://live.staticflickr.com/65535/50849419808_583450540c_o.png"} />
 
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
-      <meta property="og:image" content={'final/src/images/logo.png'} />
+      <meta property="og:image" content={'https://live.staticflickr.com/65535/50849419808_583450540c_o.png'} />
       <meta property="og:url" content={seo.url} />
       <meta property="og:type" content="website" />
 
