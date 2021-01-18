@@ -7,7 +7,7 @@ module.exports = {
       "Vijay Raja's Portfolio Website",
     siteUrl: 'https://vijayraja.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@VjjRjj',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
