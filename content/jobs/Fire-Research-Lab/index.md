@@ -1,9 +1,9 @@
 ---
-date: '2018-04-01'
+date: '2021-01-01'
 title: 'Research Assistant - Full Stack Development'
 company: 'NYU Fire Research Group'
 location: 'New York University '
-range: 'September - Present 2020'
+range: 'September 2020 - Present'
 url: 'https://fire.engineering.nyu.edu/home/index.html'
 ---
 
