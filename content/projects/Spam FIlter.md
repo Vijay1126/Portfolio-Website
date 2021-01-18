@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2021'
 title: 'Spam Filter'
 # cover: './demo.png'
 # github: 'https://github.com/bchiang7/spotify-profile'

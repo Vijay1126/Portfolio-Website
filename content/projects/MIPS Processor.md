@@ -1,5 +1,5 @@
 ---
-date: '2019-08-1'
+date: '2019'
 title: 'Single cycle MIPS processor'
 github: 'https://github.com/Vijay1126/MIPS-processor'
 external: ''
