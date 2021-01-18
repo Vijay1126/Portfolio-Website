@@ -4,7 +4,7 @@
   <img alt="Logo" src="https://user-images.githubusercontent.com/63943580/104952575-bf07f880-5992-11eb-99fd-74b3d0dcb4ae.png" />
 </div>
 <h1 align="center">
-  [vijayraja.tech](https://vijayraja.tech)
+  vijayraja.tech(https://vijayraja.tech)
 </h1>
 
 
